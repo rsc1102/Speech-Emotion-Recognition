@@ -1,5 +1,6 @@
 # Speech-Emotion-Recognition
-Speech Emotion Recognition on RAVDESS dataset using Pytorch.
+This repository if for Speech Emotion Recognition on [Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio) dataset using Pytorch.
+
 
 
 # Citation:
