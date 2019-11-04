@@ -7,7 +7,9 @@ This repository contains three jupyter notebooks.
 
 The first two notebooks are for preprocessing of the RAVDESS dataset. The notebook titled 'MAIN' is for creating the model and training.
 # Model Architecture
+## Blocks:
 ![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/Blocks.jpeg)
+## Main Model:
 ![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/Model.jpeg)
 
 # Observations
