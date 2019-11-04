@@ -10,6 +10,7 @@ The first two notebooks are for preprocessing of the RAVDESS dataset. The notebo
 ## Blocks:
 ![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/Blocks.jpeg)
 ## Main Model:
+![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/Model.jpeg)
 
 # Observations
 
