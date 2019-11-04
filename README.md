@@ -6,8 +6,10 @@ This repository contains three jupyter notebooks.
 * MAIN.ipynb
 
 The first two notebooks are for preprocessing of the RAVDESS dataset. The notebook titled 'MAIN' is for creating the model and training.
-# Model
+# Model Architecture
 ![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/Blocks.jpeg)
+![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/Model.jpeg)
+
 # Observations
 
 ## Results after training for 50 epochs:
