@@ -8,25 +8,20 @@ This repository contains three jupyter notebooks.
 The first two notebooks are for preprocessing of the RAVDESS dataset. The notebook titled 'MAIN' is for creating the model and training.
 # Model Architecture
 ## Blocks:
-![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/Blocks.jpeg)
+<img src=Images/Blocks.jpeg style="width: 640px">
+
 ## Main Model:
-![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/Model.jpeg)
+<img src=Images/Model.jpeg style="width: 640px">
 
-# Observations
+# Results:
+* Emotion Recognition Accuracy = 79.22 %
+* Gender Recognition Accuracy = 99.03 %
+<div>
+  <img src=Images/Loss_graph.JPG style="width: 400px">
+  <img src=Images/f1_accuracy_graph.JPG style="width: 400px">
+</div>
+<img src=Images/val_confusion_matrix.JPG style="width: 640px">
 
-## Results after training for 50 epochs:
-* Maximum training accuracy = 93.67 %
-* Maximum validation accuracy = 70.42 %
-* Maximum validation f1 accuracy = 73.67 %
-## Graphs:
-![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/Loss_graph.JPG)
-![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/accuracy_graph.JPG)
-![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/f1_accuracy_graph.JPG)
-## Confusion matrices with maximum f1 accuracy:
-### Validation confusion matrix
-![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/val_confusion_matrix.JPG)
-### Training confusion matrix
-![alt text](https://github.com/Azithral/Speech-Emotion-Recognition/blob/master/Images/train_confusion_matrix.JPG)
 # Requirements
 * audioread==2.1.8
 * backcall==0.1.0
